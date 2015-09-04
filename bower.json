@@ -1,0 +1,27 @@
+{
+  "name": "tinymce-skin-modern-light-flat",
+  "version": "1.0.0",
+  "authors": [
+    "Rémi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "A light flat skin for the theme \"modern\" of tinymce 4.x",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tinymce",
+    "skin",
+    "theme",
+    "bower",
+    "javascript",
+    "open-source"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
